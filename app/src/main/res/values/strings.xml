@@ -6,4 +6,6 @@
     <string name="message">Message</string>
     <string name="inserta_el_texto">Inserta el texto</string>
     <string name="insert">Inserta un texto</string>
+    <string name="paso_1">Paso 1</string>
+    <string name="descripci_n_1">Descripción 1</string>
 </resources>
