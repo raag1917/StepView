@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StepView</string>
+    <string name="myapp">My App</string>
+    <string name="name">Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="message">Message</string>
+    <string name="inserta_el_texto">Inserta el texto</string>
+    <string name="insert">Inserta un texto</string>
+</resources>
